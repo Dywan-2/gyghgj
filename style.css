@@ -1,0 +1,33 @@
+body{
+    font-family: 'Poor Story', cursive;
+    background: palegreen;
+}
+
+.thing{
+background-color: aqua;
+color: blue;
+}
+.thing p{
+    color: blue;
+    letter-spacing: 2px;
+font-size: 12px;
+font-weight: bold;
+}
+#dance{
+    margin-top: 40px;
+    width: 140px;
+    font-weight: bolder;
+    letter-spacing: 2px;
+}
+
+.dev{
+    position: fixed;
+    bottom: 0;
+    color: blue;
+    background-color: aqua;
+    width: 100%;
+    font-size: 18px;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 10px 10px 10px rgb(0, 0, 0);
+}
